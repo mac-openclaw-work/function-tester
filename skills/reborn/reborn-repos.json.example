@@ -1,0 +1,14 @@
+{
+  "github": {
+    "url": "https://github.com/<ORG>/<REPO>.git",
+    "token": "<YOUR_GITHUB_PAT>"
+  },
+  "gitee": {
+    "url": "https://gitee.com/<USER>/<REPO>.git",
+    "token": "<YOUR_GITEE_TOKEN>"
+  },
+  "cnb": {
+    "url": "https://cnb.cool/<USER>/<REPO>",
+    "token": "<YOUR_CNB_TOKEN>"
+  }
+}
